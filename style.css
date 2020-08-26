@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+}
+
+*, input {
+  font-family: 'Roboto Mono', monospace;
+}
+
+.divs {
+  margin: 1.5em;
+}
+
+.div {
+  margin-bottom: 1.5em;
+}
+
+label {
+  margin-right: 1em;
+  font-size: 1.5em;
+}
+
+select {
+  font-size: 1.5em;
+  width: auto
+}
